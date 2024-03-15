@@ -110,4 +110,6 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 ![DIV](https://github.com/VineelaShaik/EXPERIMENT--01-ALP-FOR-8086/assets/144340862/0febd869-a888-4629-97a6-59bda764cc1d)
 
 ## Result :
- 
+ The program to execute ALP on fundamental arithmetic and logical operations is successfully executed.
+
+
